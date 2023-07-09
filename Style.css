@@ -66,6 +66,7 @@ nav a {
     background-image: url(./images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
+    background-size: 50%;
 }
 .banner{
     padding: 30px 30px 0px 150px;
